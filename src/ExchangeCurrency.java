@@ -31,12 +31,6 @@ public class ExchangeCurrency {
             e.printStackTrace();
         }
 
-
-
-
-
-
-
      //ExchangeAPI ex = new ExchangeAPI();
         //getconnection with "USD"
        // if (ex.getConnection("USD")) {
